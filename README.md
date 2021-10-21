@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mosi-1 , my friends call me mosi
 - 👀 I’m interested in Blockchain , Network , Security and Crytpo 
-- 🌱 I’m currently learning everythings
+- 🌱 I’m currently try learning everythings
 - 📫 How to reach me ... I do not know really :|
 
 <!---
